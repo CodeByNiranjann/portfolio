@@ -1,2 +1,2 @@
 
-<h1>HEllo</h1>
+<h1><center>HEllo</h1></center>
